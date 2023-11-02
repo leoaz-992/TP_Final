@@ -7,3 +7,26 @@
   height: 42px;
   margin-right: 5px;
 }
+.titleFooter, .lb-Footer{
+  color: aliceblue;
+  font-weight: 900;
+}
+li{
+  list-style: none;
+}
+.redes-icon{
+  margin:5px;
+  font-size: 2rem;
+  color: rgb(144, 226, 226);
+  
+}
+.footer-bootom{
+  margin-top: 20px;
+  padding-top: 15px;
+  text-align: center;
+  
+}
+.footer-bootom h6{
+  font-size: 12px;
+  color: rgb(150, 150, 178);
+}
