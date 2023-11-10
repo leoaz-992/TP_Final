@@ -30,3 +30,15 @@ li{
   font-size: 12px;
   color: rgb(150, 150, 178);
 }
+
+.link-footer{
+  color: aliceblue;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.info-footer{
+  font-size: 16px;
+  color: rgb(144, 226, 226);
+}
